@@ -22,7 +22,7 @@ function myFunction(p) {
   }
 var stop, staticx;
 var img = new Image();
-img.src = "https://img.upanh.tv/2023/01/05/Lovepik_com-610649359-Snowflake-PNG-free-material.png";
+img.src = "hoamai.png";
 
 function Sakura(x, y, s, r, fn) {
     this.x = x;

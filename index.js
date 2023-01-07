@@ -6,8 +6,8 @@ function myFunction(p) {
     x.setAttribute("autoplay", "autoplay");
     
     var y = document.createElement("SOURCE");
-    y.setAttribute("src", "music.ogg");
-    y.setAttribute("type", "audio/ogg");
+    y.setAttribute("src", "music1.mp3");
+    y.setAttribute("type", "audio/mpeg");
     x.appendChild(y);
     
     var z = document.createElement("SOURCE");
@@ -23,7 +23,7 @@ function myFunction(p) {
 var stop, staticx;
 var img = new Image();
 img.src = "hoamai.png";
-
+// https://img.upanh.tv/2023/01/05/Lovepik_com-610649359-Snowflake-PNG-free-material.png
 function Sakura(x, y, s, r, fn) {
     this.x = x;
     this.y = y;
